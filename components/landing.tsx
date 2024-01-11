@@ -338,7 +338,7 @@ export function Landing() {
                 </div>
               </div>
               <div className="mx-auto items-start gap-8 sm:max-w-4xl grid-rows-2 sm:grid-cols-2 md:gap-12 lg:max-w-5xl lg:grid-cols-3">
-                <Card className="h-full w-full grid grid-cols-2 gap-2">
+                <Card className="h-full w-full grid grid-rows-2 md:grid-cols-2 gap-2">
                   <Image
                     alt="Event Image"
                     className="aspect-rectangle object-cover border border-gray-200 w-full rounded-lg overflow-hidden dark:border-gray-800"
