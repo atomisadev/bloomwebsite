@@ -62,7 +62,7 @@ export function AboutC() {
             <p className="text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
               We discovered the organization through a competition they hosted
               over the previous summer. They encouraged the winners to apply as
-              character directors, which led to us subsequently starting the
+              chapter directors, which led to us subsequently starting the
               club at BR.
             </p>
           </section>
